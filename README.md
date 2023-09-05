@@ -1,1 +1,1 @@
-# Projeto_IC - Leitor_de_editais_PF
+# Projeto_IC - Leitor_de_editais
